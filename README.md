@@ -25,4 +25,4 @@ Nourth and South Winds
 Bilge Güngör ve Fatih Biçgi
 
 
-https://github.com/fatihBicgi/seyahat-ruzgari/blob/3a4c45bba0df5b6bf0d06d1f1273f6f7802ad618/Readme%20Files/Bilge%20G%C3%BCng%C3%B6r%20Durum%20Senaryosu.md
+[Başlıklı Bağlantı](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Bilge%20Güngör%20Durum%20Senaryosu.md)
