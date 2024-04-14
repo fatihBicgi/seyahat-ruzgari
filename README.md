@@ -25,4 +25,16 @@ Nourth and South Winds
 Bilge Güngör ve Fatih Biçgi
 
 
-[Başlıklı Bağlantı](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Bilge%20Güngör%20Durum%20Senaryosu.md)
+[Bilge Güngör Durum Senaryosu](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Bilge%20Güngör%20Durum%20Senaryosu.md)
+
+[Bilge Güngör Durum Senaryosu](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Bilge%20Güngör%20Durum%20Senaryosu.md)
+
+[Bilge Güngör Durum Senaryosu](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Bilge%20Güngör%20Durum%20Senaryosu.md)
+
+[Bilge Güngör Durum Senaryosu](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Bilge%20Güngör%20Durum%20Senaryosu.md)
+
+[Bilge Güngör Durum Senaryosu](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Bilge%20Güngör%20Durum%20Senaryosu.md)
+
+[Bilge Güngör Durum Senaryosu](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Bilge%20Güngör%20Durum%20Senaryosu.md)
+
+[Bilge Güngör Durum Senaryosu](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Bilge%20Güngör%20Durum%20Senaryosu.md)
