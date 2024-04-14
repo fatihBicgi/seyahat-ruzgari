@@ -1,4 +1,4 @@
-Fatih Biçgi Gereksinimleri:
+### Fatih Biçgi Gereksinimleri:
 
 Sefer ekleme: Uygulama adminlerinin ulaşabileceği yetkinlikte olabilecek bir diğer bölüm. Sefer silme, dergi ekleme, sefer güncelleme sayfanın bir bölümünde olacak. Ekleme butonuna basıldığında istenilen sefer firma ,tarih ,saat ve otobüs kapasitesi girilerek eklenecek.
 
@@ -15,7 +15,7 @@ Otobüsleri fiyata göre sıralama: Kullanıcı seyahat edeceği günü girdikte
 Seyahat Sorgulama: Uygulamaya kullanıcı girişi yapılmadan da seyahatlerim kategorisinden bilet sorgulama alanına bilet numarası girilerek seyahat bilgileri edinilebilir .( yolcu bilgileri,seyahat tarihi,koltuk numarası vb.)
 
 
-Bilge Güngör Gereksinimleri:
+### Bilge Güngör Gereksinimleri:
 
 Otobüsleri saate göre sıralama: Kullanıcı seyahat edeceği günü girdikten sonra saatleri ve fiyatları ile birlikte karşısına çeşitli otobüs firmaları çıkar. Bu ekranda uygulamanın üst kısmında saate göre sıralama seçeneği bulunacaktır. Buna 1 kere tıkladığında ise seferler en yakın saatten ,gün bitimine kadar seferleri sıralar.
 
