@@ -27,11 +27,11 @@ Bilge Güngör ve Fatih Biçgi
 
 [Bilge Güngör Durum Senaryosu](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Bilge%20Güngör%20Durum%20Senaryosu.md)
 
-[Bilge Güngör Durum Senaryosu](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Bilge%20Güngör%20Durum%20Senaryosu.md)
+[Bilge Güngör Gereksinimler](https://github.com/fatihBicgi/seyahat-ruzgari/blob/5cca485f5c940cede3f769cde539eb5699b98c85/Readme%20Files/Bilge%20G%C3%BCng%C3%B6r%20Gereksinimler.md)
 
-[Bilge Güngör Durum Senaryosu](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Bilge%20Güngör%20Durum%20Senaryosu.md)
+[Fatih Biçgi Durum Senaryosu](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Fatih%20Biçgi%20Durum%20Senaryosu.md)
 
-[Bilge Güngör Durum Senaryosu](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Bilge%20Güngör%20Durum%20Senaryosu.md)
+[Fatih Biçgi Gereksinimler](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Fatih%20Biçgi%20Gereksinimler.md)
 
 [Bilge Güngör Durum Senaryosu](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Bilge%20Güngör%20Durum%20Senaryosu.md)
 
