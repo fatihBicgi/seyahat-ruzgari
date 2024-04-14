@@ -33,8 +33,12 @@ Bilge Güngör ve Fatih Biçgi
 
 [Fatih Biçgi Gereksinimler](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Fatih%20Biçgi%20Gereksinimler.md)
 
-[Bilge Güngör Durum Senaryosu](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Bilge%20Güngör%20Durum%20Senaryosu.md)
+[Durum Diagramı](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Durum%20Diagramı.md)
 
-[Bilge Güngör Durum Senaryosu](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Bilge%20Güngör%20Durum%20Senaryosu.md)
+[Proje Planı](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Proje%20Planı.md)
 
-[Bilge Güngör Durum Senaryosu](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Bilge%20Güngör%20Durum%20Senaryosu.md)
+[Veri Tabanı Diagramı](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Veri%20Tabanı%20Diagramı.md)
+
+[Front-End](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Front-End.md)
+
+[Back-End](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Back-End.md)
