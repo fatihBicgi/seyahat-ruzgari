@@ -1,6 +1,6 @@
 ### Fatih Biçgi Gereksinimleri:
 
-Sefer ekleme: Uygulama adminlerinin ulaşabileceği yetkinlikte olabilecek bir diğer bölüm. Sefer silme, dergi ekleme, sefer güncelleme sayfanın bir bölümünde olacak. Ekleme butonuna basıldığında istenilen sefer firma ,tarih ,saat ve otobüs kapasitesi girilerek eklenecek.
+Sefer ekleme: Uygulama adminlerinin ulaşabileceği yetkinlikte olabilecek bir diğer bölüm. Sefer silme, dergi ekleme, sefer güncelleme sayfanın bir bölümünde olacak. Ekleme butonuna basıldığında istenilen sefer firma, tarih, saat ve otobüs kapasitesi girilerek eklenecek.
 
 Sefer silme: Uygulama adminlerinin ulaşabileceği yetkinlikte olacak bir bölüm. Sefer ekleme, sefer silme, ve sefer güncelleme sayfanın bir bölümünde bulunacak. Sefer silmeye basıldığında silinmesi istenilen sefer seçilerek sefer silinme işlemi yapılabilecek.
 
@@ -14,7 +14,6 @@ Hesaptan çıkış yap: Hesabı ile üye girişi yapmış kullanıcı, hesabım 
 
 Otobüsleri fiyata göre sıralama: Kullanıcı seyahat edeceği günü girdikten sonra saatleri ve fiyatları ile birlikte karşısına çeşitli otobüs firmaları çıkar. Bu ekranda uygulamanın üst kısmında fiyata göre sıralama seçeneği bulunacaktır. Buna 1 kere tıkladığında ise seferler en ucuzdan en pahalıya, 2. kez tıkladığında ise en pahalıdan en ucuza sıralanacaktır.
 
-Otobüsleri fiyata göre sıralama: Kullanıcı seyahat edeceği günü girdikten sonra saatleri ve fiyatları ile birlikte karşısına çeşitli otobüs firmaları çıkar. Bu ekranda uygulamanın üst kısmında fiyata göre sıralama seçeneği bulunacaktır. Buna 1 kere tıkladığında ise seferler en ucuzdan en pahalıya, 2. kez tıkladığında ise en pahalıdan en ucuza sıralanacaktır
 
 Seyahat Sorgulama: Uygulamaya kullanıcı girişi yapılmadan da seyahatlerim kategorisinden bilet sorgulama alanına bilet numarası girilerek seyahat bilgileri edinilebilir .( yolcu bilgileri,seyahat tarihi,koltuk numarası vb.)
 
