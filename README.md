@@ -1,5 +1,10 @@
 # Seyahat Rüzgarı
 
+## Proje Videoları :
+
+[Oynatma Listesinde 2 video da mevcut]([https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Gereksinim%20Analizi.md](https://youtube.com/playlist?list=PLdW2nJICevRNh2o7_K31CT9OxZsBhGYwe&si=kOpECiC0Ly6MiGhQ))
+
+
 ## Proje Tanımı :
 
 Seyahat Rüzgarı, kullanıcıların seyahat deneyimlerini kolaylaştırmak için tasarlanmış bir mobil uygulamadır. Kullanıcıların otobüs, tren, uçak ve feribot gibi ulaşım araçları için bilet araması, rezervasyon yapması ve biletleri dijital olarak saklaması için bir platform sunar. Kullanıcılar, uygulama üzerinden seyahat rotalarını planlayabilir, bilet fiyatlarını karşılaştırabilir ve tercih ettikleri biletleri anında satın alabilirler.
