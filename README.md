@@ -2,7 +2,7 @@
 
 ## Proje Videoları :
 
-[Oynatma Listesinde 2 video da mevcut]([https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Gereksinim%20Analizi.md](https://youtube.com/playlist?list=PLdW2nJICevRNh2o7_K31CT9OxZsBhGYwe&si=kOpECiC0Ly6MiGhQ))
+[Oynatma Listesi Linki (2 video da mevcut)](https://youtube.com/playlist?list=PLdW2nJICevRNh2o7_K31CT9OxZsBhGYwe&si=kOpECiC0Ly6MiGhQ)
 
 
 ## Proje Tanımı :
