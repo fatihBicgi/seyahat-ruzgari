@@ -1,6 +1,6 @@
 Docker: Kullanılmadı. REST API: Kullanılmadı.
 
-Fatih Biçgi Kodlama
+-> Fatih Biçgi Kodlama
 
 profile page 
 
@@ -16,7 +16,7 @@ travel (ortak yapıldı)
 
 
 
-Bilge Güngör Kodlama
+-> Bilge Güngör Kodlama
 
 bottom_nav
 
