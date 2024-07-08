@@ -1,9 +1,9 @@
 # Seyahat Rüzgarı
 
-## Proje Videoları :
-
-[Oynatma Listesi Linki (2 video da mevcut)](https://youtube.com/playlist?list=PLdW2nJICevRNh2o7_K31CT9OxZsBhGYwe&si=kOpECiC0Ly6MiGhQ)
-
+### User App
+https://github.com/fatihBicgi/seyahat-ruzgari/assets/99922562/c29e6266-5d03-4cdc-95f3-4df05b020c8c
+### Admin App
+https://github.com/fatihBicgi/seyahat-ruzgari/assets/99922562/138ac3cc-1393-4782-8dd6-03dc5b87755e
 
 ## Proje Tanımı :
 
