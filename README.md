@@ -50,7 +50,3 @@ Bilge Güngör ve Fatih Biçgi
 ### [Front-End](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Front-End.md)
 
 ### [Back-End](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Back-End.md)
-
-### [Test](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Test.md)
-
-### [Geliştirici ve Kullanıcı Dökümantasyonları](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Geliştirici%20ve%20Kullanıcı%20Dökümantasyonları.md)
