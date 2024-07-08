@@ -46,7 +46,3 @@ Bilge Güngör ve Fatih Biçgi
 ### [Durum Diagramı](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Durum%20Diagramı.md)
 
 ### [Veri Tabanı Diagramı](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Veri%20Tabanı%20Diagramı.md)
-
-### [Front-End](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Front-End.md)
-
-### [Back-End](https://github.com/fatihBicgi/seyahat-ruzgari/blob/main/Readme%20Files/Back-End.md)
